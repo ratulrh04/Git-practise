@@ -1,5 +1,7 @@
 h1{
-    color: blue;
+    color: aqua;
     font-size: 120px;
     font-weight: 600;
+    padding: 10px;
+    margin:auto;
 }
